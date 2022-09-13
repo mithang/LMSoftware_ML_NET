@@ -1,0 +1,90 @@
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Data\yelp_labelled.txt
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.exe
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.deps.json
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.json
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.dev.json
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csprojAssemblyReference.cache
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfoInputs.cache
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfo.cs
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CoreCompileInputs.cache
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CopyComplete
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+C:\Users\Linda\source\repos\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.genruntimeconfig.cache
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Data\yelp_labelled.txt
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.exe
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.deps.json
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.json
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.dev.json
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\ML Projects\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csprojAssemblyReference.cache
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfoInputs.cache
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfo.cs
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CoreCompileInputs.cache
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CopyComplete
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+D:\ML Projects\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.genruntimeconfig.cache
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Data\yelp_labelled.txt
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.exe
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.deps.json
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.json
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.runtimeconfig.dev.json
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csprojAssemblyReference.cache
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfoInputs.cache
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.AssemblyInfo.cs
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CoreCompileInputs.cache
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.csproj.CopyComplete
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.dll
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.pdb
+D:\ML Projects\ML.Sentiment\AnalyzeSentiment\obj\Debug\netcoreapp3.1\AnalyzeSentiment.genruntimeconfig.cache

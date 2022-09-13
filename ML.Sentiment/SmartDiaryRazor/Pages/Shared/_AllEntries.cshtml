@@ -1,0 +1,45 @@
+﻿@inject SmartDiaryRazor.Services.Interfaces.IDiaryEntryRepository _diaryEntryRepository;
+<!--Card 1-->
+@if (_diaryEntryRepository.GetDiaryEntries().Count() > 0)
+{
+    @foreach (var diaryEntry in _diaryEntryRepository.GetDiaryEntries())
+    {
+        <div class="card horizontal">
+            <div class="card-image">
+                @if (diaryEntry.Sentiment > 0.6)
+                {
+                    <img src="img/happy_emoji.png" width="60" height="60">
+                }
+                else if (diaryEntry.Sentiment > 0.4 && diaryEntry.Sentiment <= 0.6)
+                {
+                    <img src="img/neutral_emoji.png" width="60" height="60">
+                }
+                else
+                {
+                    <img src="img/angry_emoji.png" width="60" height="60">
+                }
+            </div>
+            <div class="card-stacked">
+                <div class="card-content">
+                    <p>
+                        @diaryEntry.EntryText
+                        <br><b class="purple-text darken-5">@diaryEntry.EntryDate</b>
+                    </p>
+                    <form asp-page-handler="Delete" method="post">
+                        <input type="hidden" asp-for="@diaryEntry.EntryID" name="entryID" />
+                        <button class="btn-floating right waves-effect waves-light red"><i class="material-icons">delete</i></button>
+                    </form>
+                    <a asp-page="Edit" asp-route-entryID="@diaryEntry.EntryID" class="btn-floating halfway-fab waves-effect waves-light green"><i class="material-icons">edit</i></a>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="center">
+        <img src="~/img/empty.svg" height="250" width="250" />
+    </div>
+}
+
+

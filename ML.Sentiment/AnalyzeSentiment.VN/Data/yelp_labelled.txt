@@ -1,0 +1,11 @@
+Thức ăn quá ngon	1
+Thức ăn tuyệt vời	1
+Tuyệt	1
+Ngon	1
+Đỉnh	1
+Dinh	1
+Tuyet	1
+Dỡ	0
+Không ngon	0
+Không	0
+khong	0
